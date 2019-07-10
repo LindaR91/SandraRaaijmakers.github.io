@@ -1,15 +1,19 @@
 name: "Sandra Raaijmakers"
 output_dir: "."
 navbar:
-  title: "Sandra Raaijmakers"
+  title: "Ik & mijn paard"
   left:
     - text: "Wie ben ik?"
-      href: research.html
+      href: intro.html
+    - text: "Op de boerderij"
+      href: boerderij.html
     - text: "Blogs"
-      href: talks.html
+      href: blog.html
+    - text: "Foto's"
+      href: foto.html
   right:
     - icon: fa-envelope fa-lg
-      href: contact.html
+      href: mailto:rsandra@live.nl
     - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/sandra-raaijmakers-98040a64/
 output:

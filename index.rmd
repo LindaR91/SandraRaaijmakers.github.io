@@ -3,8 +3,13 @@
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<img src="images/0.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+<img src="images/WhatsApp Image 2019-07-10 at 20.38.32.jpeg" style="width:25%; border:5px solid; margin-right: 10px;" align="left">
 
-Hoi,
+Hoi!
 
-welkom op mijn website!
+Leuk dat je een kijkje neemt op mijn website.
+Middels mijn blog zal ik je op de hoogte houden van al mijn avonturen samen met mijn paar Vanique Jive.
+Hopelijk kan ik zo een inspiratiebron zijn voor alle andere paardenmeisjes in deze wereld!
+
+Liefs, 
+Sandra
